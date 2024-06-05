@@ -6,7 +6,7 @@ RUN apk update && apk add bash
 
 # We all love vim.
 RUN apk add vim
-RUN pip install tqdm
+
 
 # Delete 
 RUN apk del bash
