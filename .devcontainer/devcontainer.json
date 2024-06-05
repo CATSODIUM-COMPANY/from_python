@@ -1,0 +1,9 @@
+{
+	"name": "New Alpine docker",
+	"forwardPorts": [8000],
+	"build": {
+		"dockerfile": "Dockerfile" 
+	},
+	
+	"postStartCommand": "rm -rf .devcontainer"
+}
