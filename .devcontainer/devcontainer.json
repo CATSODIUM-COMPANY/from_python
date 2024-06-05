@@ -5,5 +5,5 @@
 		"dockerfile": "Dockerfile" 
 	},
 	
-	"postCreateCommand": "rm -rf .devcontainer"
+	"postStartCommand": "rm -rf .devcontainer"
 }
