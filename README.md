@@ -1,6 +1,12 @@
+
+
+
 ## Getting Started
 
 Welcome to our `CS101 - Python for Beginners` codespace environment. This codespace is powered by `alpine`, a lightweight Docker image based on Alpine Linux that covers limited features sufficiently enough for submitting tasks. 
+
+- [Quick start](#installed-packages)
+- [Tasks](#tasks)
 
 ##### Installed packages
 - `python3`
@@ -20,3 +26,6 @@ Now, you should see
 ```
 Hello, from CS101 - Python for Beginners.
 ```
+
+## Tasks
+work in progress
