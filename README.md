@@ -64,3 +64,11 @@ Constraints:
     0 <= n <= 30
 
 ```
+Set the file name to `test01_fibonacci.py`. 
+To compile code, execute
+```
+chmod +x src/fib_grader
+mv src/fib_grader /usr/bin
+fib_grader test01_fibonacci.py
+
+```
